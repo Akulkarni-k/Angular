@@ -1,10 +1,9 @@
-# Cloud Kitechen Web - Angular 13 based Online Food Order Application. 
 
-Used Bootstrap 5 for Responsive design
 
-![Alt text](https://github.com/Uma-GT/Angular-Food-Order-App/blob/main/app.jpeg?raw=true "Application")
+Used Bootstrap  for Responsive design
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+
+
 
 ## Development server
 
@@ -20,7 +19,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
